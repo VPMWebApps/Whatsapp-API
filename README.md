@@ -1,2 +1,4 @@
-# Whatsapp-API
-useful links to whatsapp business api
+# Whatsapp Business API
+
+Whatsapp message types:
+https://developers.facebook.com/docs/whatsapp/cloud-api/guides/send-messages#message-types
